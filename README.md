@@ -19,7 +19,15 @@ Feb 27, 2023: Paper accepted to CVPR 2023
 ## Network Architecture
 ![architecture](architecture.png)
 
-### Citation
+## Citation
 If you find useful, kindly consider citing:
 
+	@article{mehta2023gated,                
+          title={Gated Multi-Resolution Transfer Network for Burst Restoration and Enhancement},
+          author={Nancy Mehta and Akshay Dudhane and Subrahmanyam Murala and Syed Waqas Zamir and Salman Khan and Fahad Shahbaz Khan},
+          journal={arXiv preprint arXiv:2304.0670},
+          year={2023}
+        }
 
+## Contact
+In case of any query, please contact 2018eez0017@iitrpr.ac.in
