@@ -17,3 +17,4 @@ Feb 27, 2023: Paper accepted to CVPR 2023
     burst denoising, and low-light burst enhancement*.
     
 ## Network Architecture
+![architecture](architecture.png)
