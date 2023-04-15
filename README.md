@@ -18,3 +18,8 @@ Feb 27, 2023: Paper accepted to CVPR 2023
     
 ## Network Architecture
 ![architecture](architecture.png)
+
+### Citation
+If you find useful, kindly consider citing:
+
+
